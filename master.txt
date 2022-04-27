@@ -1,2 +1,4 @@
-This is my first file in this repository. Just have a look at it now.
+Day one: This is my first file in this repository. Just have a look at it now.
 enjoy!
+
+Day 2 : We are having a nice party outside. It is sunny today.
